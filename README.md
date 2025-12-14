@@ -52,15 +52,11 @@ Due to the large size of the dataset, the project files are shared via **Google 
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
+![Dashboard 1 – Overall View](images/DashBoard1.png
 
-## 📸 Dashboard Preview
+![Dashboard 2 – Sales Analysis](images/DashBoard2.png
 
-![Dashboard 1](images/DashBoard1.png
-
-![Dashboard 2](images/DashBoard2.png
-
-![Dashboard 3](images/DashBoard3.png
+![Dashboard 3 – Regional Performance](images/DashBoard3.png
 
 
 
