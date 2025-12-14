@@ -50,6 +50,11 @@ Due to the large size of the dataset, the project files are shared via **Google 
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Overview](images/dashboard_overview.png
+
+
 ## 👤 Author
 **Abhinav Shivhare**  
 Aspiring Data Analyst  
